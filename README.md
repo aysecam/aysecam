@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ayse 👋</h1>
 
-<!--
-**aysecam/aysecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Microservices;SQL+%7C+Cassandra+%7C+Redis;Open+to+Collaboration+and+Freelance+Work" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aysecam&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+- 📧 Mail: [ayse@example.com](mailto:ayse.cam9@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aysecam/)
+- ✍️ [Medium](https://medium.com/@ayse.cam)
+
