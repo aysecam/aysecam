@@ -1,8 +1,15 @@
 <h1 align="center">Hi, I'm Ayse 👋</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Microservices;SQL+%7C+Cassandra+%7C+Redis;Open+to+Collaboration+and+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Microservices;SQL+%7C+Cassandra+%7C+Redis;Open+to+Collaboration+and+Freelance+Work" alt="Typing SVG" />
 </p>
+
+---
+
+### 👩‍💻 About Me
+
+I'm a passionate .NET backend developer focused on building clean, scalable, and maintainable applications using modern software architecture patterns like CQRS and Clean Architecture. I enjoy solving real-world problems and I'm always open to new collaborations and freelance opportunities. 🚀
 
 ---
 
