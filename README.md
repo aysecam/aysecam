@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate .NET backend developer focused on building clean, scalable, and maintainable applications using modern software architecture patterns like CQRS and Clean Architecture. I enjoy solving real-world problems and I'm always open to new collaborations and freelance opportunities. 🚀
+Passionate .NET Backend Developer | Building scalable solutions with CQRS, Clean Architecture & Microservices | Problem-solver at heart
 
 ---
 
