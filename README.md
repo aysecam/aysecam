@@ -33,7 +33,7 @@ Passionate .NET Backend Developer | Building scalable solutions with CQRS, Clean
 
 ### 📫 Reach Me
 
-- 📧 Mail: [ayse@example.com](mailto:ayse.cam9@gmail.com)
+- 📧 Mail: [ayse.cam](mailto:ayse.cam9@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aysecam/)
 - ✍️ [Medium](https://medium.com/@ayse.cam)
 
