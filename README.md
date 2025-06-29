@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Microservices;SQL+%7C+Cassandra+%7C+Redis;Open+to+Collaboration+and+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Microservices;SQL+%7C+Cassandra+%7C+Redis;" alt="Typing SVG" />
 </p>
 
 ---
